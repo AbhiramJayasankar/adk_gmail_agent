@@ -1,0 +1,32 @@
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Credentials and tokens
+credentials.json
+token.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+.env
+downloads/
+
