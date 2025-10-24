@@ -30,3 +30,6 @@ Thumbs.db
 .env
 downloads/
 
+# Documentation
+CLAUDE.md
+
